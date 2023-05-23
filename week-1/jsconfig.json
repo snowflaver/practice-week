@@ -1,0 +1,9 @@
+// src폴더 밑에 있는 파일들을 전부 절대 경로로 사용
+{
+    "compilerOption": {
+        "baseUrl": "src"
+    },
+    "include": [
+        "src"
+    ]
+}
